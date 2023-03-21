@@ -43,9 +43,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 </p>
-  
-<br>
-<!-- 메일 -->
-<h4 align="center"> ✉️ Contact ✉️ </h4>
-<p align="center">
-  <small><a href="hyunj9212@gmail.com">hyunj9212@gmail.com</a></small>
+
